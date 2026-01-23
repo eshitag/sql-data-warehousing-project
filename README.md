@@ -12,6 +12,11 @@ Developing Data warehouse using SQL server to consilidate sales data, enabling a
 - ETL process
 - Data modeling
 
+## Data Flow Diagram after Silver Table transformation
+
+<img width="2964" height="2044" alt="image" src="https://github.com/user-attachments/assets/55d12764-17fb-4faf-9d96-ee5feafc2175" />
+
+## Silver layer joins and schema
 <img width="3444" height="1884" alt="image" src="https://github.com/user-attachments/assets/0005b840-7c54-46ef-99c1-e59e754e8897" />
 
 
