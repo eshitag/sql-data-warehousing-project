@@ -12,6 +12,9 @@ Developing Data warehouse using SQL server to consilidate sales data, enabling a
 - ETL process
 - Data modeling
 
+<img width="3444" height="1884" alt="image" src="https://github.com/user-attachments/assets/0005b840-7c54-46ef-99c1-e59e754e8897" />
+
+
   
 ### Data Analytics
 Implementing BI and Reporting.
