@@ -25,6 +25,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 - Customer Behavior
 - Product Performance
 - Sales Trends
+
+### Exploratory Analysis
+- Explored the data from gold layer
+- Generated business friendly reports
   
 ### Data Analytics
 Implementing BI and Reporting.
