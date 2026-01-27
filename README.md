@@ -1,4 +1,4 @@
-# Data Warehousing project
+# Data Warehousing -> Analysis project
 
 ## Building a modern data warehousing project.
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it follows enterprise level standards highlighting industry best practices.
